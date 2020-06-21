@@ -1,0 +1,6 @@
+A cat vs dofg classification problem where cats are represented by  and dog are represented by 1 and images are in jpeg format. The project 
+make use of deep learning CNN (Convolution Neural Networks) for preparing a model for image processing. It make use of tensorflow and keras 
+libraries for it. The data used to prepare and validate the model can be found in "https://www.kaggle.com/tongpython/cat-and-dog". The 
+data cant be included in the repository as it contains too many pictures along with large size of each pictures. In the project the data in 
+the form of images are stored in the same directory as the IPython notebook. The model gives around 98% accuracy on training set and
+84% accuracy on test set.
